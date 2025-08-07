@@ -1,5 +1,3 @@
-
-
 <div align="center">
-  ![snake gif](https://github.com/AbhaySuyal/AbhaySuyal/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/AbhaySuyal/AbhaySuyal/output/github-snake-dark.svg" alt="snake gif" />
 </div>
